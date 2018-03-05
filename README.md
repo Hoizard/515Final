@@ -1,6 +1,6 @@
 #Image in README
 
-![](Pictures/515fINAL.png)
-![](Pictures/MVC_structure.jpg)
-![](Pictures/User Case Third.jpg	)
-![](Pictures/erdplus-diagram.png)
+![Overall](Pictures/515fINAL.png)
+![MVC Structure](Pictures/MVC_structure.jpg)
+![User Case Model](Pictures/User Case Third.jpg	)
+![ERDPlus Diagram](Pictures/erdplus-diagram.png)
